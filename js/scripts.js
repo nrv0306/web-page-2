@@ -6,5 +6,5 @@ $(document).ready(function(){
     /* To scroll to a section from navbar */
     $('.scrollspy').scrollSpy();
 	/* For Slider */
-     $('.slider').slider({full_width: true });
+     $('.slider').slider({full_width: false});
 });
