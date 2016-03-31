@@ -7,4 +7,5 @@ $(document).ready(function(){
     $('.scrollspy').scrollSpy();
 	/* For Slider */
      $('.slider').slider({full_width: false});
+      
 });
